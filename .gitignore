@@ -1,0 +1,6 @@
+# Cloned app (gets cloned by install.sh)
+app/
+
+# Environment
+.env
+*.log
