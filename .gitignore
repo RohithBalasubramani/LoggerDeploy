@@ -1,6 +1,14 @@
-# Cloned app (gets cloned by install.sh)
-app/
+# Dependencies (installed by install.sh)
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
 
 # Environment
 .env
 *.log
+
+# Build output
+dist/
+build/
